@@ -1,0 +1,5 @@
+Todo's:
+
+voeg meta tags toe aan de head.
+Title attributes aan de links.
+Voeg alt attributes toe aan images.
